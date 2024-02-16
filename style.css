@@ -47,7 +47,7 @@ body{
 }
 
 .container button{
-    background-color: #80b918;
+    background-color: #137547;
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
@@ -150,7 +150,7 @@ p.forgetPassword a{
 }
 
 .social-icons a:hover {
-    background-color: #80b918;
+    background-color: #137547;
     color: #fff;
     border: none;
 }
@@ -174,9 +174,9 @@ p.forgetPassword a{
 }
 
 .toggle {
-    background-color: #80b918;
+    background-color: #137547;
     height: 100%;
-    background: linear-gradient(right , #aacc00 , #80b918);
+    background: linear-gradient(right , #aacc00 , #137547);
     color: #fff;
     position: relative;
     left: -100%;
