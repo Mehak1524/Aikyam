@@ -40,3 +40,4 @@ window.addEventListener('resize', () => {
         document.body.classList.remove("resize-animation-stopper");
     }, 400);
 });
+
